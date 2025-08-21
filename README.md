@@ -1,12 +1,12 @@
 A simple Python implementation of the classic Snake Water Gun game (similar to Rock-Paper-Scissors). The user plays against the computer, and the winner is decided based on the rules:
 
-Snake drinks Water → Snake wins
+🐍 Snake drinks Water → Snake wins
 
-Water drowns Gun → Water wins
+💧 Water drowns Gun → Water wins
 
-Gun kills Snake → Gun wins
+🔫 Gun kills Snake → Gun wins
 
-Features:
+🚀 Features
 
 Play against computer
 
@@ -16,3 +16,6 @@ Score tracking
 
 Simple and fun CLI game
 
+🛠️ Tech Stack
+
+Python 3
